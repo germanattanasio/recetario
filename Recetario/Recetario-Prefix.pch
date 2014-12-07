@@ -1,0 +1,20 @@
+//
+// Prefix header for all source files of the 'Recetario' target in the 'Recetario' project
+//
+
+#import <Availability.h>
+
+#ifndef __IPHONE_5_0
+#warning "This project uses features only available in iOS SDK 5.0 and later."
+#endif
+
+#ifdef __OBJC__
+    #import <UIKit/UIKit.h>
+    #import <Foundation/Foundation.h>
+#endif
+
+#define FAVORITAS @"Favoritas"
+#define PANADERIA @"Panadería"
+#define PASTELERIA @"Pastelería"
+
+#define SYSTEM_VERSION_GREATER_THAN_OR_EQUAL_TO(v)  ([[[UIDevice currentDevice] systemVersion] compare:v options:NSNumericSearch] != NSOrderedAscending)
