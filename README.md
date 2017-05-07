@@ -7,5 +7,7 @@ El Recetario una aplicación desarrollada por voluntarios de IBM Argentina, en e
 [![2](http://s14.postimg.org/wac9fl2a9/screen568x568_3.jpg)](Receta)
 [![2](http://s11.postimg.org/hlbbetceb/screen568x568_1.jpg)](Receta)
 
+Apple Store: https://itunes.apple.com/ph/app/el-recetario/id763836409?mt=8
+
 ## Licencia
   Apache 2.0. El texto completo de la licencia esta disponible en [LICENSE](LICENSE).
